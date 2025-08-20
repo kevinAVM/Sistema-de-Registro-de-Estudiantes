@@ -9,7 +9,7 @@ public class RegistroEstudiantes {  //Variables
 
     private static final String SIN_ESTUDIANTE = "N/A";
     
-    public static void mostrarMenu(){  //metodo sin parametros, no nesecitamos devolver nada
+    public static void mostrarMenu(){  //metodo sin parametros, no necesitamos devolver nada
         System.out.println("--- Sistema de Registro de Estudiantes ---");
         System.out.println("1- Registrar datos de un estudiante");
         System.out.println("2- Mostrar datos del estudiante actual");
